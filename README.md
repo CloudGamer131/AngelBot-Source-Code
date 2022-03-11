@@ -3,7 +3,7 @@
 Please Only Use if you know what to-do in aoi.js
 --
 
-Need Help Add me on Discord: CloudGamer#2023
+Need Help Join My Discord: https://dsc.gg/seendevs
 --
 
 Want To Run This GitHub Repo On Replit Click The Run on Replit Button Below to do That.
@@ -13,8 +13,10 @@ Want To Run This GitHub Repo On Replit Click The Run on Replit Button Below to d
 Aoi.js Docs/wikis https://aoi.leref.ga/
 --
 
-Join The Support Server: https://discord.gg/awzvZKdRzS
+Join The Support Server: https://dsc.gg/seendevs
 --
 
 Invite angel bot: https://dsc.gg/angelbot22
+--
+[![AngelBot Vote Status](https://top.gg/api/widget/925988445476753479.svg)(https://top.gg/bot/925988445476753479)
 --
