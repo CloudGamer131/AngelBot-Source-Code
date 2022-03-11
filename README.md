@@ -1,6 +1,6 @@
-# aoi-js-bot-template-commands
+# Angel Bot Source Code
 
-Please Only Use if you know what to-do in aoi.js
+Please if you need help with anything to do with the bot join the support server Thanks
 --
 
 Need Help Join My Discord: https://dsc.gg/seendevs
